@@ -11,26 +11,27 @@ redirect_from:
 
 [PDF](/files/resume.pdf){: .btn}
 
-## Keren Zhu
+## Mingjie Liu
 {: .text-center}
 Ph.D. Student,  Department of Electrical and Computer Engineering
 {: .text-center}
-University of Texas at Austin,  Austin, TX 78712
+The University of Texas at Austin,  Austin, TX 78712
 {: .text-center}
 
 Education
 ------
-* Ph.D. in University of Texas at Austin, Texas, US, 2022 (expected)
-* B.S. in University of Wisconsin-Madison, Madison, WI, 2016
+* Ph.D. in University of Texas at Austin, Texas, US, In Progress
+* M.S. in University of Michigan, Ann Arbor, MI, US, 2018
+* B.S. in Peking University, Beijing, CN, 2016
 
 
 Work experience
 ------
-* University of Texas at Austin (Jan 2019 - Present) 
-  * University of Texas at Austin, Austin, TX
+* The University of Texas at Austin (Jan 2019 - Present) 
+  * Research Assistant at UTDA
 
-* Apple (May 2018 - Aug 2018) 
-  * Physical Design Intern, Austin, TX
+* Micron Technology (May 2018 - Aug 2018) 
+  * Design Engineer Intern
 
 
 
@@ -43,12 +44,12 @@ Skills
 * EDA tools
   * Cadence Virtuoso 
   * Synopsys Design Compiler
-  * Synopsys IC Compiler
   
 
 Awards and Honors
 ------
-* Hilldale Undergraduate/Faculty Research Fellowship, 2015
-* Hugo Jr. and Pennie Longemann Scholarship, 2014
-* Vincent Rideout Scholarshipp, 2013
+* The University of Texas Graduate School Fellowship, 2018
+* Graduation of Honor, 2016
+* Fangzheng Scholarship, 2015
+* Samsung Scholarship, 2014
 

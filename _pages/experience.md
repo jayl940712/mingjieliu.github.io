@@ -10,19 +10,20 @@ author_profile: true
 
 * **University of Texas at Austin, USA**
   * Research Assistant 
-  * ECE department, University of Texas at Austin
-  * Jan 2019 - Present, Austin, TX
+  * ECE department, The University of Texas at Austin
+  * Sep 2018 - Present, Austin, TX
 
 
-* **Apple., USA**
-  * Intern
-  * SoC PD
-  * Manager: Amjad Qadan
-  * May 2018 - August 2018, Austin, TX
+* **Micron Technology, USA**
+  * Design Engineer Intern
+  * Output buffer design and timing critical path optimization
+  * May 2017 - August 2017, Austin, TX
 
 
 # Teaching Experience
 
-* Teaching Assistant, Spring 2015 and Fall 2018
-  * *EE230 Circuit Analysis*, University of Wisconsin-Madison
-  * *EE382M VLSI CAD and Optimization*, University of Texas at Austin
+* Teaching Assistant, Fall 2019
+  * *EE411 Circuit Theory*, The University of Texas at Austin
+  
+* Teaching Assistant, Fall 2017
+  * *EE427 VLSI I*, University of Michigan, Ann Arbor
