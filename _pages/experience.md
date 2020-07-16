@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-* **University of Texas at Austin, USA**
+* **The University of Texas at Austin, USA**
   * Research Assistant 
   * ECE department, The University of Texas at Austin
   * Sep 2018 - Present, Austin, TX
