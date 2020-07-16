@@ -33,7 +33,7 @@ C6. [Closing the Design Loop: Bayesian Optimization Assisted Hierarchical Analog
    * **Mingjie Liu**, Keren Zhu, Xiyuan Tang, Biying Xu, Wei Shi, Nan Sun and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 19-23, 2020.
    
-C5. [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning](https://jayl940712.github.io/publications/) 
+C5. [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning](https://ieeexplore.ieee.org/document/9116330) 
    * <a href="/publications/papers/A_DATE2020_LiuZhu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_DATE2020_LiuZhu.slides.pdf" style="color:#3793ae">slides</a>
    * **Mingjie Liu** \*, Keren Zhu \*, Jiaqi Gu, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.
