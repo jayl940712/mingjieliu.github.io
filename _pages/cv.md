@@ -27,7 +27,7 @@ Education
 
 Work experience
 ------
-* The University of Texas at Austin (Sep 2019 - Present) 
+* The University of Texas at Austin (Sep 2018 - Present) 
   * Research Assistant at UTDA
 
 * Micron Technology (May 2018 - Aug 2018) 
