@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "KEREN ZHU'S SITE"
+title                    : "Mingjie Liu'S SITE"
 title_separator          : "-"
-name                     : &name "Keren Zhu"
+name                     : &name "Mingjie Liu"
 description              : &description "PhD Student at The University of Texas at Austin"
-url                      : https://krzhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jayl940712.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "krzhu.github.io"
+repository               : "jayl940712.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Keren Zhu"
-  avatar           : "cartoon.jpg"
+  name             : "Mingjie Liu"
+  avatar           : "mingjieliu.jpg"
   bio              : "PhD Student at The University of Texas at Austin"
   location         : "Austin, Texas"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=wy5I3fwAAAAJ"
-  email            : "keren.zhu@utexas.edu"
+  email            : "jay_liu@utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "krzhu"
+  github           : "jayl940712"
   google_plus      :
   keybase          :
   instagram        :
