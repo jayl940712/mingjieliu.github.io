@@ -20,14 +20,14 @@ The University of Texas at Austin,  Austin, TX 78712
 
 Education
 ------
-* Ph.D. in University of Texas at Austin, Texas, US, In Progress
+* Ph.D. in The University of Texas at Austin, Texas, US, In Progress
 * M.S. in University of Michigan, Ann Arbor, MI, US, 2018
 * B.S. in Peking University, Beijing, CN, 2016
 
 
 Work experience
 ------
-* The University of Texas at Austin (Jan 2019 - Present) 
+* The University of Texas at Austin (Sep 2019 - Present) 
   * Research Assistant at UTDA
 
 * Micron Technology (May 2018 - Aug 2018) 
