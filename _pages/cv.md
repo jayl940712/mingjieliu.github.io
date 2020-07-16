@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](/files/resume.pdf){: .btn}
+[PDF](/files/cv.pdf){: .btn}
 
 ## Mingjie Liu
 {: .text-center}
