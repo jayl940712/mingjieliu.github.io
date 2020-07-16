@@ -29,18 +29,18 @@ C7. [An Efficient Training Framework for Reversible Neural Architectures](https:
    * European Conference on Computer Vision (ECCV), Glasgow, United Kingdom, August 23-27, 2020
 
 C6. [Closing the Design Loop: Bayesian Optimization Assisted Hierarchical Analog Layout Synthesis](https://jayl940712.github.io/publications/) 
-    * <a href="/publications/papers/A_DAC2020_Liu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_DAC2020_Liu.slides.pdf" style="color:#3793ae">slides</a>
+   * <a href="/publications/papers/A_DAC2020_Liu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_DAC2020_Liu.slides.pdf" style="color:#3793ae">slides</a>
    * **Mingjie Liu**, Keren Zhu, Xiyuan Tang, Biying Xu, Wei Shi, Nan Sun and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 19-23, 2020.
    
 C5. [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning](https://jayl940712.github.io/publications/) 
-    * <a href="/publications/papers/A_DATE2020_LiuZhu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_DATE2020_LiuZhu.slides.pdf" style="color:#3793ae">slides</a>
+   * <a href="/publications/papers/A_DATE2020_LiuZhu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_DATE2020_LiuZhu.slides.pdf" style="color:#3793ae">slides</a>
    * **Mingjie Liu** \*, Keren Zhu \*, Jiaqi Gu, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.
    * \*indicates equal contributions
 
 C4. [S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity](https://ieeexplore.ieee.org/document/9045109) 
-   * Best Paper Nomination
+   * Best Paper Award Nomination
    * <a href="/publications/papers/AC_ASPDAC2020_Liu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/AC_ASPDAC2020_Liu.slides.pdf" style="color:#3793ae">slides</a>
    * **Mingjie Liu**, Wuxi Li, Keren Zhu, Biying Xu, Yibo Lin, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC),  Beijing, China, January 13-16, 2020.
