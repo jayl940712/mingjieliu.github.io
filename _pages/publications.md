@@ -24,7 +24,7 @@ C8. [Effective Analog/Mixed-Signal Circuit Placement Considering System Signal F
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
    
 C7. [An Efficient Training Framework for Reversible Neural Architectures](https://jayl940712.github.io/publications/) 
-   * <a href="/publications/papers/ML_ECCV2020_Jiang.pdf" style="color:#3793ae">preprint</a> 
+   * <a href="/publications/papers/ML_ECCV2020_Jiang.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ECCV2020_Jiang.slides.pdf" style="color:#3793ae">slides</a>
    * Zixuan Jiang, Keren Zhu, **Mingjie Liu**, Jiaqi Gu and David Z. Pan
    * European Conference on Computer Vision (ECCV), Glasgow, United Kingdom, August 23-27, 2020
 
@@ -47,7 +47,7 @@ C4. [S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph
    
 C3. [Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture](https://ieeexplore.ieee.org/document/9045156) 
    * **Best Paper Award**
-   * <a href="/publications/papers/O_ASPDAC2020_Gu.pdf" style="color:#3793ae">preprint</a> 
+   * <a href="/publications/papers/O_ASPDAC2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/O_ASPDAC2020_Gu.slides.pdf" style="color:#3793ae">slides</a>
    * Jiaqi Gu, Zheng Zhao, Chenghao Feng, **Mingjie Liu**, Ray T. Chen, David Z. Pan
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC),  Beijing, China, January 13-16, 2020.
 
