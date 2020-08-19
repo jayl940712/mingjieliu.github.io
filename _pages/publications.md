@@ -14,12 +14,12 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Conference Papers
 -------
 C9. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](https://jayl940712.github.io/publications/) 
-   * Accepted
+   * <a href="/publications/papers/AR_ICCAD2021_Chen.pdf" style="color:#3793ae">preprint</a>
    * Hao Chen, Keren Zhu, **Mingjie Liu**, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
 
 C8. [Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow](https://jayl940712.github.io/publications/) 
-   * Accepted
+   * <a href="/publications/papers/AP_ICCAD2021_Zhu.pdf" style="color:#3793ae">preprint</a>
    * Keren Zhu, Hao Chen, **Mingjie Liu**, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
    
