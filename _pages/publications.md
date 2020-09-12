@@ -13,6 +13,11 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
             
 Conference Papers
 -------
+C10. [Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://jayl940712.github.io/publications/) 
+   * accepted
+   * Xiaohan Gao, Chenhui Deng, **Mingjie Liu**, Zhiru Zhang, David Z. Pan and Yibo Lin
+   * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, January 18-21, 2021
+   
 C9. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](https://jayl940712.github.io/publications/) 
    * <a href="/publications/papers/AR_ICCAD2021_Chen.pdf" style="color:#3793ae">preprint</a>
    * Hao Chen, Keren Zhu, **Mingjie Liu**, Xiyuan Tang, Nan Sun and David Z. Pan
