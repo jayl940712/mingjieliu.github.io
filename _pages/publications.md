@@ -77,7 +77,7 @@ Journal Papers
 -------
 
 J3. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](https://jayl940712.github.io/publications/) 
-   * Accepted \| Invited
+   * Accepted \| Invited Paper
    * Hao Chen\*, **Mingjie Liu** \*, Xiyuan Tang\*, Keren Zhu \*, Nan Sun and David Z. Pan
    * Journal of Semiconductors, 2020.
    * \*indicates equal contributions  
@@ -87,7 +87,7 @@ J2. [Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture
    * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), September, 2020.
 
 J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://ieeexplore.ieee.org/document/9195880) 
-   * Invited
+   * Invited Paper
    * Hao Chen\*, **Mingjie Liu** \*, Biying Xu\*, Keren Zhu \*, Xiyuan Tang, Shaolan Li, Yibo Lin, Nan Sun and David Z. Pan
    * IEEE Design & Test, 2020.
    * \*indicates equal contributions    
