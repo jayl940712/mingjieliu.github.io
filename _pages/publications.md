@@ -8,13 +8,18 @@ author_profile: false
 {% include base_path %}
 
 You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
-{: .notice--info}
-            
+{: .notice--info}        
             
 Conference Papers
 -------
+
+C11. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network](https://jayl940712.github.io/publications/) 
+   * Accepted
+   * Keren Zhu, **Mingjie Liu**, Hao Chen, Zheng Zhao and David Z. Pan
+   * 2nd ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), November 16-20, 2020
+   
 C10. [Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://jayl940712.github.io/publications/) 
-   * accepted
+   * Accepted
    * Xiaohan Gao, Chenhui Deng, **Mingjie Liu**, Zhiru Zhang, David Z. Pan and Yibo Lin
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, January 18-21, 2021
    
@@ -66,3 +71,23 @@ C1. [GeniusRoute: A New Routing Paradigm Using Generative Neural Network Guidanc
    * <a href="/publications/papers/AR_ICCAD2019_zhu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/AR_ICCAD2019_Zhu.slides_v4.pdf" style="color:#3793ae">slides</a>
    * Keren Zhu, **Mingjie Liu**, Yibo Lin, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE International Conference on Computer-Aided Design (ICCAD),  Westminster, CO, USA, November 4-7, 2019.
+
+
+Journal Papers
+-------
+
+J3. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](https://jayl940712.github.io/publications/) 
+   * Accepted \| Invited
+   * Hao Chen\*, **Mingjie Liu** \*, Xiyuan Tang\*, Keren Zhu \*, Nan Sun and David Z. Pan
+   * Journal of Semiconductors, 2020.
+   * \*indicates equal contributions  
+   
+J2. [Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture via Joint Learnability](https://ieeexplore.ieee.org/abstract/document/9209122)
+   * Jiaqi Gu, Zheng Zhao, Chenghao Feng, Zhoufeng Ying, **Mingjie Liu**, Ray T. Chen and David Z. Pan
+   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), September, 2020.
+
+J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://ieeexplore.ieee.org/document/9195880) 
+   * Invited
+   * Hao Chen\*, **Mingjie Liu** \*, Biying Xu\*, Keren Zhu \*, Xiyuan Tang, Shaolan Li, Yibo Lin, Nan Sun and David Z. Pan
+   * IEEE Design & Test, 2020.
+   * \*indicates equal contributions    
