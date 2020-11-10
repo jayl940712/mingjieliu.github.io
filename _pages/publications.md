@@ -38,7 +38,7 @@ C7. [An Efficient Training Framework for Reversible Neural Architectures](https:
    * Zixuan Jiang, Keren Zhu, **Mingjie Liu**, Jiaqi Gu and David Z. Pan
    * European Conference on Computer Vision (ECCV), Glasgow, United Kingdom, August 23-27, 2020
 
-C6. [Closing the Design Loop: Bayesian Optimization Assisted Hierarchical Analog Layout Synthesis](https://jayl940712.github.io/publications/) 
+C6. [Closing the Design Loop: Bayesian Optimization Assisted Hierarchical Analog Layout Synthesis](https://ieeexplore.ieee.org/document/9218621) 
    * <a href="/publications/papers/A_DAC2020_Liu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_DAC2020_Liu.slides.pdf" style="color:#3793ae">slides</a>
    * **Mingjie Liu**, Keren Zhu, Xiyuan Tang, Biying Xu, Wei Shi, Nan Sun and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 19-23, 2020.
@@ -76,8 +76,7 @@ C1. [GeniusRoute: A New Routing Paradigm Using Generative Neural Network Guidanc
 Journal Papers
 -------
 
-J3. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](https://jayl940712.github.io/publications/) 
-   * Accepted \| Invited Paper
+J3. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://www.jos.ac.cn/fileBDTXB/journal/article/jos/2020/11/PDF/20070021.pdf) 
    * Hao Chen\*, **Mingjie Liu** \*, Xiyuan Tang\*, Keren Zhu \*, Nan Sun and David Z. Pan
    * Journal of Semiconductors, 2020.
    * \*indicates equal contributions  
