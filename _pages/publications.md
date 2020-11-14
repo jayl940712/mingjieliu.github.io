@@ -13,6 +13,16 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Conference Papers
 -------
 
+C13. [Parasitic-Aware Analog Circuit Sizing with Graph Neural Networks and Bayesian Optimization](https://jayl940712.github.io/publications/) 
+   * Accepted
+   * **Mingjie Liu**, Walker Turner, George Kokai, Brucek Khailany, David Z. Pan and Haoxing Ren
+   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Feb. 01-05, 2021
+
+C12. [SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators](https://jayl940712.github.io/publications/) 
+   * Accepted
+   * Jiaqi Gu, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, **Mingjie Liu**, Ray T. Chen and David Z. Pan
+   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Feb. 01-05, 2021
+
 C11. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network](https://jayl940712.github.io/publications/) 
    * Accepted
    * Keren Zhu, **Mingjie Liu**, Hao Chen, Zheng Zhao and David Z. Pan
