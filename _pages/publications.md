@@ -23,8 +23,8 @@ C12. [SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand 
    * Jiaqi Gu, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, **Mingjie Liu**, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Feb. 01-05, 2021
 
-C11. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network](https://jayl940712.github.io/publications/) 
-   * Accepted
+C11. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network](https://dl.acm.org/doi/10.1145/3380446.3430622) 
+   * <a href="/publications/papers/LS_MLCAD2020_ZHU.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/LS_MLCAD2020_ZHU.slides.pdf" style="color:#3793ae">slides</a>
    * Keren Zhu, **Mingjie Liu**, Hao Chen, Zheng Zhao and David Z. Pan
    * 2nd ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), November 16-20, 2020
    
@@ -43,7 +43,7 @@ C8. [Effective Analog/Mixed-Signal Circuit Placement Considering System Signal F
    * Keren Zhu, Hao Chen, **Mingjie Liu**, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
    
-C7. [An Efficient Training Framework for Reversible Neural Architectures](https://jayl940712.github.io/publications/) 
+C7. [An Efficient Training Framework for Reversible Neural Architectures](https://link.springer.com/chapter/10.1007%2F978-3-030-58583-9_17) 
    * <a href="/publications/papers/ML_ECCV2020_Jiang.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ECCV2020_Jiang.slides.pdf" style="color:#3793ae">slides</a>
    * Zixuan Jiang, Keren Zhu, **Mingjie Liu**, Jiaqi Gu and David Z. Pan
    * European Conference on Computer Vision (ECCV), Glasgow, United Kingdom, August 23-27, 2020
