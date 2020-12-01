@@ -34,12 +34,12 @@ C10. [Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks]
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, January 18-21, 2021
    
 C9. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](https://jayl940712.github.io/publications/) 
-   * <a href="/publications/papers/AR_ICCAD2021_Chen.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/AR_ICCAD2021_Chen.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/AR_ICCAD2021_Chen.slides.pdf" style="color:#3793ae">slides</a>
    * Hao Chen, Keren Zhu, **Mingjie Liu**, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
 
 C8. [Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow](https://jayl940712.github.io/publications/) 
-   * <a href="/publications/papers/AP_ICCAD2021_Zhu.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/AP_ICCAD2021_Zhu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/AP_ICCAD2021_Zhu.slides.pdf" style="color:#3793ae">slides</a>
    * Keren Zhu, Hao Chen, **Mingjie Liu**, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
    
