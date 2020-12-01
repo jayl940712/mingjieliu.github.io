@@ -29,7 +29,7 @@ C11. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convol
    * 2nd ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), November 16-20, 2020
    
 C10. [Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://jayl940712.github.io/publications/) 
-   * Accepted
+   * <a href="/publications/papers/AC_ASPDAC2021_Gao.pdf" style="color:#3793ae">preprint</a>
    * Xiaohan Gao, Chenhui Deng, **Mingjie Liu**, Zhiru Zhang, David Z. Pan and Yibo Lin
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, January 18-21, 2021
    
