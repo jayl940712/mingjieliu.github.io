@@ -29,7 +29,10 @@ Work experience
 ------
 * The University of Texas at Austin (Sep 2018 - Present) 
   * Research Assistant at UTDA
-
+  
+* Nvidia Corporation (June 2020 - Sep 2020) 
+  * Research Intern
+  
 * Micron Technology (May 2018 - Aug 2018) 
   * Design Engineer Intern
 

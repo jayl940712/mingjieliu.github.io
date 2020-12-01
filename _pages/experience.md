@@ -12,12 +12,17 @@ author_profile: true
   * Research Assistant 
   * ECE department, The University of Texas at Austin
   * Sep 2018 - Present, Austin, TX
-
+  
+* **Nvidia Corporation, USA**
+  * Research Intern
+  * Parasitic-aware transistor sizing with Bayesian optimization
+  * Layout parasitic prediction with graph neural networks
+  * June 2020 - September 2020, Austin, TX
 
 * **Micron Technology, USA**
   * Design Engineer Intern
   * Output buffer design and timing critical path optimization
-  * May 2017 - August 2017, Austin, TX
+  * May 2017 - August 2017, San Jose, CA
 
 
 # Teaching Experience
