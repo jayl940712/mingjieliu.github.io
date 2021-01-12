@@ -13,7 +13,7 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Conference Papers
 -------
 
-C14. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s $\Delta\Sigma ADC$](https://jayl940712.github.io/publications/) 
+C14. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s $\Delta\Sigma$ ADC](https://jayl940712.github.io/publications/) 
    * Acceepted
    * Hao Chen\*, **Mingjie Liu** \*, Xiyuan Tang\*, Keren Zhu \*, Nan Sun and David Z. Pan
    * IEEE Custom Integrated Circuits Conference (CICC), April 25-30, 2021
