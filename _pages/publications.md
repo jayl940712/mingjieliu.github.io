@@ -17,6 +17,7 @@ C14. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework
    * Accepted
    * Hao Chen\*, **Mingjie Liu** \*, Xiyuan Tang\*, Keren Zhu \*, Nan Sun and David Z. Pan
    * IEEE Custom Integrated Circuits Conference (CICC), April 25-30, 2021
+   * \*indicates equal contributions  
    
 C13. [Parasitic-Aware Analog Circuit Sizing with Graph Neural Networks and Bayesian Optimization](https://jayl940712.github.io/publications/) 
    * <a href="/publications/papers/A_DATE2021_Liu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_DATE2021_Liu.slides.pdf" style="color:#3793ae">slides</a>
