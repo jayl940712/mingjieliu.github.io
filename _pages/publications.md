@@ -25,7 +25,7 @@ C13. [Parasitic-Aware Analog Circuit Sizing with Graph Neural Networks and Bayes
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Feb. 01-05, 2021
 
 C12. [SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators](https://jayl940712.github.io/publications/) 
-   * Accepted
+   * <a href="/publications/papers/O_DATE2021_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/O_DATE2021_Gu.slides.pdf" style="color:#3793ae">slides</a>
    * Jiaqi Gu, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, **Mingjie Liu**, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Feb. 01-05, 2021
 
