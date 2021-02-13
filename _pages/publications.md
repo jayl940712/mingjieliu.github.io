@@ -12,7 +12,16 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
             
 Conference Papers
 -------
-
+C16. [Interactive Analog Layout Editing with Instant Placement Legalization](https://jayl940712.github.io/publications/) 
+   * Accepted
+   * Xiaohan Gao, **Mingjie Liu**, David Z. Pan and Yibo Lin
+   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 11-15, 2021
+   
+C15. [Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks](https://jayl940712.github.io/publications/) 
+   * Accepted
+   * Hao Chen, Keren Zhu, **Mingjie Liu**, Xiyuan Tang, Nan Sun, and David Z. Pan
+   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 11-15, 2021
+   
 C14. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s $\Delta\Sigma$ ADC](https://jayl940712.github.io/publications/) 
    * Accepted
    * Hao Chen\*, **Mingjie Liu** \*, Xiyuan Tang\*, Keren Zhu \*, Nan Sun and David Z. Pan
