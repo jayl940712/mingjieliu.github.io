@@ -27,7 +27,7 @@ C15. [Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circu
    * Hao Chen, Keren Zhu, **Mingjie Liu**, Xiyuan Tang, Nan Sun, and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 11-15, 2021
    
-C14. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s $\Delta\Sigma$ ADC](https://jayl940712.github.io/publications/) 
+C14. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s $\Delta\Sigma$ ADC](https://ieeexplore.ieee.org/document/9431521) 
    * <a href="/publications/papers/A_CICC2021_Pan.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_CICC2021_Pan.slides.pdf" style="color:#3793ae">slides</a>
    * Hao Chen\*, **Mingjie Liu** \*, Xiyuan Tang\*, Keren Zhu \*, Nan Sun and David Z. Pan
    * IEEE Custom Integrated Circuits Conference (CICC), April 25-30, 2021
