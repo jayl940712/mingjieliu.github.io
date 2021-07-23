@@ -12,18 +12,28 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
             
 Conference Papers
 -------
+C19. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generation](https://jayl940712.github.io/publications/) 
+   * Accepted
+   * Jiaqi Gu, Hanqing Zhu, Chenghao Feng, **Mingjie Liu**, Zixuan Jiang, Ray T. Chen, and David Z. Pan
+   * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021
+   
+C18. [OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler](https://jayl940712.github.io/publications/) 
+   * Accepted
+   * **Mingjie Liu**, Xiyuan Tang, Keren Zhu, Hao Chen, Nan Sun and David Z. Pan
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 01-04, 2021
+   
 C17. [Optimizer Fusion: Efficient Training with Better Locality and Parallelism](https://arxiv.org/abs/2104.00237)
-   * <a href="https://arxiv.org/pdf/2104.00237.pdf" style="color:#3793ae">preprint</a>
+   * <a href="https://arxiv.org/pdf/2104.00237.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_HAET2021_Jiang.poster.pdf" style="color:#3793ae">slides</a>
    * Zixuan Jiang, Jiaqi Gu, **Mingjie Liu**, Keren Zhu, and David Z. Pan
    * International Conference on Learning Representations (ICLR), Workshop on Hardware Aware Efficient Training (HAET), May 07, 2021
    
 C16. [Interactive Analog Layout Editing with Instant Placement Legalization](https://jayl940712.github.io/publications/) 
-   * <a href="/publications/papers/AP_DAC2021_Gao.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/AP_DAC2021_Gao.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/AP_DAC2021_Gao.slides.pdf" style="color:#3793ae">slides</a>
    * Xiaohan Gao, **Mingjie Liu**, David Z. Pan and Yibo Lin
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 11-15, 2021
    
 C15. [Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks](https://jayl940712.github.io/publications/) 
-   * <a href="/publications/papers/AC_DAC2021_Chen.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/AC_DAC2021_Chen.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/AC_DAC2021_Chen.slides.pdf" style="color:#3793ae">slides</a>
    * Hao Chen, Keren Zhu, **Mingjie Liu**, Xiyuan Tang, Nan Sun, and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 11-15, 2021
    
