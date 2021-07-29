@@ -23,7 +23,7 @@ C18. [OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler](https://jay
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 01-04, 2021
    
 C17. [Optimizer Fusion: Efficient Training with Better Locality and Parallelism](https://arxiv.org/abs/2104.00237)
-   * <a href="https://arxiv.org/pdf/2104.00237.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_HAET2021_Jiang.poster.pdf" style="color:#3793ae">slides</a>
+   * <a href="https://arxiv.org/pdf/2104.00237.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_HAET2021_Jiang.poster.pdf" style="color:#3793ae">poster</a>
    * Zixuan Jiang, Jiaqi Gu, **Mingjie Liu**, Keren Zhu, and David Z. Pan
    * International Conference on Learning Representations (ICLR), Workshop on Hardware Aware Efficient Training (HAET), May 07, 2021
    
@@ -43,12 +43,12 @@ C14. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework
    * IEEE Custom Integrated Circuits Conference (CICC), April 25-30, 2021
    * \*indicates equal contributions  
    
-C13. [Parasitic-Aware Analog Circuit Sizing with Graph Neural Networks and Bayesian Optimization](https://jayl940712.github.io/publications/) 
+C13. [Parasitic-Aware Analog Circuit Sizing with Graph Neural Networks and Bayesian Optimization](https://ieeexplore.ieee.org/document/9474253) 
    * <a href="/publications/papers/A_DATE2021_Liu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_DATE2021_Liu.slides.pdf" style="color:#3793ae">slides</a>
    * **Mingjie Liu**, Walker Turner, George Kokai, Brucek Khailany, David Z. Pan and Haoxing Ren
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Feb. 01-05, 2021
 
-C12. [SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators](https://jayl940712.github.io/publications/) 
+C12. [SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators](https://ieeexplore.ieee.org/document/9474147) 
    * <a href="/publications/papers/O_DATE2021_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/O_DATE2021_Gu.slides.pdf" style="color:#3793ae">slides</a>
    * Jiaqi Gu, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, **Mingjie Liu**, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Feb. 01-05, 2021
