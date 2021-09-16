@@ -12,6 +12,16 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
             
 Conference Papers
 -------
+C21. [Generative-Adversarial-Network-Guided  Well-Aware  Placement  for  Analog  Circuits](https://jayl940712.github.io/publications/) 
+   * Accepted
+   * Keren Zhu, Hao, Chen, **Mingjie Liu**, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
+   * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
+   
+C20. [Generative-Adversarial-Network-Guided  Well-Aware  Placement  for  Analog  Circuits](https://jayl940712.github.io/publications/) 
+   * Accepted
+   * Hanqing Zhu, Jiaqi Gu, Chenghao Feng, **Mingjie Liu**, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
+   * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
+   
 C19. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generation](https://jayl940712.github.io/publications/) 
    * Accepted
    * Jiaqi Gu, Hanqing Zhu, Chenghao Feng, **Mingjie Liu**, Zixuan Jiang, Ray T. Chen, and David Z. Pan
