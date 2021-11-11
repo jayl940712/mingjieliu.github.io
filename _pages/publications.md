@@ -12,9 +12,15 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
             
 Conference Papers
 -------
+C22. [Automating Analog Constraint Extraction: From Heuristics to Learning](https://jayl940712.github.io/publications/) 
+   * Accepted
+   * Invited Paper
+   * Keren Zhu, Hao Chen, **Mingjie Liu**, and David Z. Pan
+   * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
+
 C21. [Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circuits](https://jayl940712.github.io/publications/) 
    * Accepted
-   * Keren Zhu, Hao, Chen, **Mingjie Liu**, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
+   * Keren Zhu, Hao Chen, **Mingjie Liu**, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
    
 C20. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://jayl940712.github.io/publications/) 
@@ -22,8 +28,8 @@ C20. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enh
    * Hanqing Zhu, Jiaqi Gu, Chenghao Feng, **Mingjie Liu**, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
    
-C19. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generation](https://jayl940712.github.io/publications/) 
-   * Accepted
+C19. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generation](https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_Towards_Memory-Efficient_Neural_Networks_via_Multi-Level_In_Situ_Generation_ICCV_2021_paper.pdf) 
+   * <a href="https://arxiv.org/pdf/2108.11430.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ICCV2021_Gu.poster.pdf" style="color:#3793ae">poster</a>
    * Jiaqi Gu, Hanqing Zhu, Chenghao Feng, **Mingjie Liu**, Zixuan Jiang, Ray T. Chen, and David Z. Pan
    * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021
    
