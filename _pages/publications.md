@@ -7,11 +7,22 @@ author_profile: false
 
 {% include base_path %}
 
-You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+You can also find my articles on <a href="https://scholar.google.com/citations?user==-v5DbrMAAAAJ&hl">my Google Scholar profile</a>.
 {: .notice--info}        
             
 Conference Papers
 -------
+C23. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://jayl940712.github.io/publications/) 
+   * Accepted
+   * Zizheng Guo \*, **Mingjie Liu** \*, Jiaqi Gu, Shuhan Zhang, David Z. Pan, and Yibo Lin
+   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 10-14, 2022.
+   * \*indicates equal contributions  
+
+C23. [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://arxiv.org/abs/2112.08703) 
+   * Accepted
+   * Jiaqi Gu, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, **Mingjie Liu**, Shuhan Zhang, Ray T. Chen, and David Z. Pan
+   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 10-14, 2022.
+   
 C22. [Automating Analog Constraint Extraction: From Heuristics to Learning](https://jayl940712.github.io/publications/) 
    * Accepted
    * Invited Paper
@@ -23,7 +34,7 @@ C21. [Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circ
    * Keren Zhu, Hao Chen, **Mingjie Liu**, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
    
-C20. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://jayl940712.github.io/publications/) 
+C20. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://arxiv.org/abs/2112.08512) 
    * Accepted
    * Hanqing Zhu, Jiaqi Gu, Chenghao Feng, **Mingjie Liu**, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
@@ -33,7 +44,7 @@ C19. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generatio
    * Jiaqi Gu, Hanqing Zhu, Chenghao Feng, **Mingjie Liu**, Zixuan Jiang, Ray T. Chen, and David Z. Pan
    * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021
    
-C18. [OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler](https://jayl940712.github.io/publications/) 
+C18. [OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler](https://ieeexplore.ieee.org/document/9643494) 
    * Accepted
    * **Mingjie Liu**, Xiyuan Tang, Keren Zhu, Hao Chen, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 01-04, 2021
@@ -43,19 +54,19 @@ C17. [Optimizer Fusion: Efficient Training with Better Locality and Parallelism]
    * Zixuan Jiang, Jiaqi Gu, **Mingjie Liu**, Keren Zhu, and David Z. Pan
    * International Conference on Learning Representations (ICLR), Workshop on Hardware Aware Efficient Training (HAET), May 07, 2021
    
-C16. [Interactive Analog Layout Editing with Instant Placement Legalization](https://jayl940712.github.io/publications/) 
+C16. [Interactive Analog Layout Editing with Instant Placement Legalization](https://ieeexplore.ieee.org/document/9586234) 
    * <a href="/publications/papers/AP_DAC2021_Gao.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/AP_DAC2021_Gao.slides.pdf" style="color:#3793ae">slides</a>
    * Xiaohan Gao, **Mingjie Liu**, David Z. Pan and Yibo Lin
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 11-15, 2021
    
-C15. [Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks](https://jayl940712.github.io/publications/) 
+C15. [Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks](https://ieeexplore.ieee.org/document/9586211) 
    * <a href="/publications/papers/AC_DAC2021_Chen.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/AC_DAC2021_Chen.slides.pdf" style="color:#3793ae">slides</a>
    * Hao Chen, Keren Zhu, **Mingjie Liu**, Xiyuan Tang, Nan Sun, and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 11-15, 2021
    
 C14. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s $\Delta\Sigma$ ADC](https://ieeexplore.ieee.org/document/9431521) 
    * <a href="/publications/papers/A_CICC2021_Pan.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_CICC2021_Pan.slides.pdf" style="color:#3793ae">slides</a>
-   * Hao Chen\*, **Mingjie Liu** \*, Xiyuan Tang\*, Keren Zhu \*, Nan Sun and David Z. Pan
+   * Hao Chen \*, **Mingjie Liu** \*, Xiyuan Tang \*, Keren Zhu \*, Nan Sun and David Z. Pan
    * IEEE Custom Integrated Circuits Conference (CICC), April 25-30, 2021
    * \*indicates equal contributions  
    
@@ -133,7 +144,7 @@ Journal Papers
 -------
 
 J3. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://www.jos.ac.cn/fileBDTXB/journal/article/jos/2020/11/PDF/20070021.pdf) 
-   * Hao Chen\*, **Mingjie Liu** \*, Xiyuan Tang\*, Keren Zhu \*, Nan Sun and David Z. Pan
+   * Hao Chen \*, **Mingjie Liu** \*, Xiyuan Tang \*, Keren Zhu \*, Nan Sun and David Z. Pan
    * Journal of Semiconductors, 2020.
    * \*indicates equal contributions  
    
@@ -142,6 +153,6 @@ J2. [Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture
    * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), September, 2020.
 
 J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://ieeexplore.ieee.org/document/9195880) 
-   * Hao Chen\*, **Mingjie Liu** \*, Biying Xu\*, Keren Zhu \*, Xiyuan Tang, Shaolan Li, Yibo Lin, Nan Sun and David Z. Pan
+   * Hao Chen \*, **Mingjie Liu** \*, Biying Xu \*, Keren Zhu \*, Xiyuan Tang, Shaolan Li, Yibo Lin, Nan Sun and David Z. Pan
    * IEEE Design & Test, 2020.
    * \*indicates equal contributions    
