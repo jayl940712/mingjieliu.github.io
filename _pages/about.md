@@ -29,5 +29,6 @@ Research Highlights
 
 *  \[[DATE'20](https://ieeexplore.ieee.org/document/9116330)\] Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning
 
-*  \[[ASPDAC'20](https://ieeexplore.ieee.org/document/9045109)\] S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity **Best Paper Nomination**{: style="color}
+*  \[[ASPDAC'20](https://ieeexplore.ieee.org/document/9045109)\] S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity 
+   **Best Paper Nomination**
 
