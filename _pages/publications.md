@@ -7,7 +7,7 @@ author_profile: false
 
 {% include base_path %}
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user==-v5DbrMAAAAJ&hl">my Google Scholar profile</a>.
+You can also find my articles on <a href="https://scholar.google.com/citations?user=-v5DbrMAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.
 {: .notice--info}        
             
 Conference Papers
