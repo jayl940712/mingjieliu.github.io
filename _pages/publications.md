@@ -12,7 +12,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
             
 Conference Papers
 -------
-C23. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://jayl940712.github.io/publications/) 
+C24. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://jayl940712.github.io/publications/) 
    * Accepted
    * Zizheng Guo \*, **Mingjie Liu** \*, Jiaqi Gu, Shuhan Zhang, David Z. Pan, and Yibo Lin
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 10-14, 2022.
