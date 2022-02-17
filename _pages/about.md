@@ -19,9 +19,9 @@ Research Highlights
 ======
 * **\[[DAC'22](https://jayl940712.github.io/publications/)\] A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction**
 
-* **\[[ICCAD'22](https://ieeexplore.ieee.org/document/9643494)\] OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler**
+* **\[[ICCAD'21](https://ieeexplore.ieee.org/document/9643494)\] OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler**
 
-* **\[[CICC'22](https://ieeexplore.ieee.org/document/9431521)\] MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s $\Delta\Sigma$ ADC**
+* **\[[CICC'21](https://ieeexplore.ieee.org/document/9431521)\] MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s $\Delta\Sigma$ ADC**
 
 *  **\[[DATE'21](https://ieeexplore.ieee.org/document/9474253)\] Parasitic-Aware Analog Circuit Sizing with Graph Neural Networks and Bayesian Optimization**
 
