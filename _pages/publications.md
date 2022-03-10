@@ -23,19 +23,19 @@ C23. [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://a
    * Jiaqi Gu, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, **Mingjie Liu**, Shuhan Zhang, Ray T. Chen, and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 10-14, 2022.
    
-C22. [Automating Analog Constraint Extraction: From Heuristics to Learning](https://jayl940712.github.io/publications/) 
-   * Accepted
+C22. [Automating Analog Constraint Extraction: From Heuristics to Learning](https://ieeexplore.ieee.org/document/9712488) 
+   * <a href="/publications/papers/AC_ASPDAC2021_Zhu.pdf" style="color:#3793ae">preprint</a> 
    * Invited Paper
    * Keren Zhu, Hao Chen, **Mingjie Liu**, and David Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
 
-C21. [Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circuits](https://jayl940712.github.io/publications/) 
-   * Accepted
+C21. [Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circuits](https://ieeexplore.ieee.org/document/9712592) 
+   * <a href="/publications/papers/AP_ASPDAC2021_Zhu.pdf" style="color:#3793ae">preprint</a> 
    * Keren Zhu, Hao Chen, **Mingjie Liu**, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
    
-C20. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://arxiv.org/abs/2112.08512) 
-   * Accepted
+C20. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://ieeexplore.ieee.org/document/9712497) 
+   * <a href="https://arxiv.org/pdf/2112.08512.pdf" style="color:#3793ae">preprint</a>
    * Hanqing Zhu, Jiaqi Gu, Chenghao Feng, **Mingjie Liu**, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
    
@@ -45,7 +45,7 @@ C19. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generatio
    * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021
    
 C18. [OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler](https://ieeexplore.ieee.org/document/9643494) 
-   * Accepted
+   * <a href="/publications/papers/A_ICCAD2021_Liu.pdf" style="color:#3793ae">preprint</a> 
    * **Mingjie Liu**, Xiyuan Tang, Keren Zhu, Hao Chen, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 01-04, 2021
    
