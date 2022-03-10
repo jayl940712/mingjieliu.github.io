@@ -25,12 +25,12 @@ C23. [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://a
    
 C22. [Automating Analog Constraint Extraction: From Heuristics to Learning](https://ieeexplore.ieee.org/document/9712488) 
    * Invited Paper
-   * <a href="/publications/papers/AC_ASPDAC2021_Zhu.pdf" style="color:#3793ae">preprint</a> 
+   * <a href="/publications/papers/AC_ASPDAC2022_Zhu.pdf" style="color:#3793ae">preprint</a> 
    * Keren Zhu, Hao Chen, **Mingjie Liu**, and David Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
 
 C21. [Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circuits](https://ieeexplore.ieee.org/document/9712592) 
-   * <a href="/publications/papers/AP_ASPDAC2021_Zhu.pdf" style="color:#3793ae">preprint</a> 
+   * <a href="/publications/papers/AP_ASPDAC2022_Zhu.pdf" style="color:#3793ae">preprint</a> 
    * Keren Zhu, Hao Chen, **Mingjie Liu**, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
    
