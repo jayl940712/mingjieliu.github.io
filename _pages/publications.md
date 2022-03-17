@@ -45,7 +45,7 @@ C19. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generatio
    * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021
    
 C18. [OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler](https://ieeexplore.ieee.org/document/9643494) 
-   * <a href="/publications/papers/A_ICCAD2021_Liu.pdf" style="color:#3793ae">preprint</a> 
+   * <a href="/publications/papers/A_ICCAD2021_Liu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_ICCAD2021_Liu.slides.pdf" style="color:#3793ae">slides</a>
    * **Mingjie Liu**, Xiyuan Tang, Keren Zhu, Hao Chen, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 01-04, 2021
    
