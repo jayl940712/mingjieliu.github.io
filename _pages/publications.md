@@ -13,13 +13,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Conference Papers
 -------
 C24. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://jayl940712.github.io/publications/) 
-   * Accepted
+   *  <a href="/publications/papers/T_DAC2022_Liu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/T_DAC2022_Liu.slides.pdf" style="color:#3793ae">slides</a>
    * Zizheng Guo \*, **Mingjie Liu** \*, Jiaqi Gu, Shuhan Zhang, David Z. Pan, and Yibo Lin
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 10-14, 2022.
    * \*indicates equal contributions  
 
 C23. [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://arxiv.org/abs/2112.08703) 
-   * Accepted
+   * <a href="/publications/papers/ONN_DAC2022_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_DAC2022_Gu.slides.pdf" style="color:#3793ae">slides</a>
    * Jiaqi Gu, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, **Mingjie Liu**, Shuhan Zhang, Ray T. Chen, and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 10-14, 2022.
    
