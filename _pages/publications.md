@@ -142,6 +142,13 @@ C1. [GeniusRoute: A New Routing Paradigm Using Generative Neural Network Guidanc
 
 Journal Papers
 -------
+J5. [SqueezeLight: A Multi-Operand Ring-Based Optical Neural Network with Cross-Layer Scalability](https://doi.org/10.1109/TCAD.2022.3189567) 
+   * Jiaqi Gu, Chenghao Feng, Hanqing Zhu, Zheng Zhao, Zhoufeng Ying, **Mingjie Liu**, Ray T. Chen and David Z. Pan
+   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022.
+   
+J4. [ELight: Towards Efficient and Aging-Resilient Photonic In-Memory Neurocomputing](https://doi.org/10.1109/TCAD.2022.3180969) 
+   * Hanqing Zhu, Jiaqi Gu, Chenghao Feng, **Mingjie Liu**, Zixuan Jiang, Ray T. Chen and David Z. Pan
+   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2022.
 
 J3. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://www.jos.ac.cn/fileBDTXB/journal/article/jos/2020/11/PDF/20070021.pdf) 
    * Hao Chen \*, **Mingjie Liu** \*, Xiyuan Tang \*, Keren Zhu \*, Nan Sun and David Z. Pan
