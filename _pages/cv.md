@@ -27,9 +27,12 @@ Education
 
 Work experience
 ------
-* The University of Texas at Austin (Sep 2018 - Present) 
+* The University of Texas at Austin (Sep 2018 - Nov 2022) 
   * Research Assistant at UTDA
-  
+
+* Nvidia Corporation (Jan 2020 - Aug 2020) 
+  * Research Intern
+ 
 * Nvidia Corporation (June 2020 - Sep 2020) 
   * Research Intern
   
@@ -44,6 +47,10 @@ Skills
   * C/C++ 
   * Python 
   * Verilog 
+* Machine learning
+  * Pytorch/Tensorflow
+  * Graph neural newtorks
+  * Generative adversarial networks
 * EDA tools
   * Cadence Virtuoso 
   * Synopsys Design Compiler

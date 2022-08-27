@@ -11,7 +11,14 @@ author_profile: true
 * **The University of Texas at Austin, USA**
   * Research Assistant 
   * ECE department, The University of Texas at Austin
-  * Sep 2018 - Present, Austin, TX
+  * September 2018 - November 2022, Austin, TX
+
+* **Nvidia Corporation, USA**
+  * Research Intern
+  * Machine learning lithograph modeling 
+  * Data augmentation with Generative Adversarial Networks
+  * Increase data and training efficiency with active learning methods
+  * January 2020 - August 2022, Austin, TX
   
 * **Nvidia Corporation, USA**
   * Research Intern

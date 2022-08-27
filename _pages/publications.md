@@ -12,6 +12,18 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
             
 Conference Papers
 -------
+C26. [A Tale of EDA’s Long Tail: Long-Tailed Distribution Learning for Electronic Design Automation](https://dl.acm.org/doi/10.1145/3551901.3556485)
+   *  <a href="/publications/papers/EDA_MLCAD2022_Liu.pdf" style="color:#3793ae">preprint</a>
+   * Zixuan Jiang \*, **Mingjie Liu** \*, Zizheng Guo, Shuhan Zhang, Yibo Lin, and David Pan
+   * 4th ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sept 12 - 13, 2022.
+   * \*indicates equal contributions  
+   
+C25. [RobustAnalog: Fast Variation-Aware Analog Circuit Design Via Multi-task RL](https://doi.org/10.1145/3551901.3556487)
+   *  <a href="/publications/papers/A_MLCAD2022_Shi.pdf" style="color:#3793ae">preprint</a>
+   * Wei Shi \*, Hanrui Wang \*, Jiaqi Gu, **Mingjie Liu**, David Pan, Song Han and Nan Sun
+   * 4th ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sept 12 - 13, 2022.
+   * \*indicates equal contributions  
+   
 C24. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://jayl940712.github.io/publications/) 
    *  <a href="/publications/papers/T_DAC2022_Liu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/T_DAC2022_Liu.slides.pdf" style="color:#3793ae">slides</a>
    * Zizheng Guo \*, **Mingjie Liu** \*, Jiaqi Gu, Shuhan Zhang, David Z. Pan, and Yibo Lin
@@ -142,6 +154,11 @@ C1. [GeniusRoute: A New Routing Paradigm Using Generative Neural Network Guidanc
 
 Journal Papers
 -------
+J6. [Interactive Analog Layout Editing with Instant Placement and Routing Legalization](https://doi.org/10.1109/TCAD.2022.3190234)
+   * Xiaohan Gao \*, Haoyi Zhang \*, **Mingjie Liu**, Linxiao Shen, David Z. Pan, Yibo Lin, Runsheng Wang and Ru Huang
+   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022.
+   * \*indicates equal contributions  
+   
 J5. [SqueezeLight: A Multi-Operand Ring-Based Optical Neural Network with Cross-Layer Scalability](https://doi.org/10.1109/TCAD.2022.3189567) 
    * Jiaqi Gu, Chenghao Feng, Hanqing Zhu, Zheng Zhao, Zhoufeng Ying, **Mingjie Liu**, Ray T. Chen and David Z. Pan
    * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022.
