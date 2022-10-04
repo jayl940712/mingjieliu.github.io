@@ -18,7 +18,7 @@ author_profile: true
   * Machine learning lithograph modeling 
   * Data augmentation with Generative Adversarial Networks
   * Increase data and training efficiency with active learning methods
-  * January 2020 - August 2022, Austin, TX
+  * January 2022 - August 2022, Austin, TX
   
 * **Nvidia Corporation, USA**
   * Research Intern

@@ -30,7 +30,7 @@ Work experience
 * The University of Texas at Austin (Sep 2018 - Nov 2022) 
   * Research Assistant at UTDA
 
-* Nvidia Corporation (Jan 2020 - Aug 2020) 
+* Nvidia Corporation (Jan 2022 - Aug 2022) 
   * Research Intern
  
 * Nvidia Corporation (June 2020 - Sep 2020) 
