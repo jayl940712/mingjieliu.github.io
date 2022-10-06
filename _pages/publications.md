@@ -167,7 +167,7 @@ J4. [ELight: Towards Efficient and Aging-Resilient Photonic In-Memory Neurocompu
    * Hanqing Zhu, Jiaqi Gu, Chenghao Feng, **Mingjie Liu**, Zixuan Jiang, Ray T. Chen and David Z. Pan
    * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2022.
 
-J3. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://www.jos.ac.cn/fileBDTXB/journal/article/jos/2020/11/PDF/20070021.pdf) 
+J3. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](https://iopscience.iop.org/article/10.1088/1674-4926/41/11/111407) 
    * Hao Chen \*, **Mingjie Liu** \*, Xiyuan Tang \*, Keren Zhu \*, Nan Sun and David Z. Pan
    * Journal of Semiconductors, 2020.
    * \*indicates equal contributions  
